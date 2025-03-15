@@ -1,5 +1,5 @@
 > [!WARNING]
-> This repository is for portfolio purposes only. Any project in this repository is not maintained, have private license and NOT open source.
+> This repository is for portfolio purposes only. Any project in this repository have private license and NOT open source.
 
 ## a1-customized-chatgpt
 > Production [BETA]: https://ai.theskinnyrat.com/
